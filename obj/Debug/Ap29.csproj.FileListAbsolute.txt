@@ -1,0 +1,8 @@
+C:\Users\moham\source\repos\AssistedProject\Ap29\Ap29\bin\Debug\Ap29.exe.config
+C:\Users\moham\source\repos\AssistedProject\Ap29\Ap29\bin\Debug\Ap29.exe
+C:\Users\moham\source\repos\AssistedProject\Ap29\Ap29\bin\Debug\Ap29.pdb
+C:\Users\moham\source\repos\AssistedProject\Ap29\Ap29\obj\Debug\Ap29.csproj.AssemblyReference.cache
+C:\Users\moham\source\repos\AssistedProject\Ap29\Ap29\obj\Debug\Ap29.csproj.SuggestedBindingRedirects.cache
+C:\Users\moham\source\repos\AssistedProject\Ap29\Ap29\obj\Debug\Ap29.csproj.CoreCompileInputs.cache
+C:\Users\moham\source\repos\AssistedProject\Ap29\Ap29\obj\Debug\Ap29.exe
+C:\Users\moham\source\repos\AssistedProject\Ap29\Ap29\obj\Debug\Ap29.pdb
